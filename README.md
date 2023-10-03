@@ -1,4 +1,6 @@
 #mern_trial_ts
+#
+#
 Learning how to code with TypeScript.  Finding that TS is a superset of JavaScript, so all valid JS is valid TS, and all TS code needs to be transpiled to JS to run in a brower or Node.JS environment.  There are some excellent features TS brings to the table, making it a widely used superset in production.  It takes slightly longer for the transpiling process potentially producing higher CI (continual integration, if your company uses that) costs, but TS leads to more maintainable code, fewer bugs and better collaboration (declaring types make reading code easier, ie self-documented). 
 
 Here are a few features TS brings to the table that are not present in Vanilla JS:
