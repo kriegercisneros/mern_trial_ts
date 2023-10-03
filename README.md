@@ -6,4 +6,6 @@ Here are a few features TS brings to the table that are not present in Vanilla J
 2. Type Inference -- even if you don't declare the type, TS many times can figure it out and assign it.
 3. Interfaces -- A way to define the structure or shape of an object.  This makes sure the object adheres to a particular specification.  Does not transpile into JS Code, used purely for type-checking and ensuring adherence to certian contracts
 4. Access Modifiers -- private, public and protected modifiers
-5. Decorators -- just like in Python!  annotations and meta-programming syntax for class declarations.  But don't get too excited, atm they are unstable are are experimental.  
+5. Decorators -- just like in Python!  annotations and meta-programming syntax for class declarations.  But don't get too excited, atm they are unstable are are experimental. 
+
+Overall, TypeScript makes your code more readable and easier to maintain and provides advanced features for data defination (interface) that will help in large-scale applications.  
