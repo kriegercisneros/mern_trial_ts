@@ -54,7 +54,7 @@ const Login: React.FC = ()=>{
         });
     };
     return(
-        <div>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', height: '100vh', justifyContent: 'center' }}>
             <h2>Login</h2>
             <input
                 type="email"
